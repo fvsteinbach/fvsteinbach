@@ -1,4 +1,5 @@
 ### I'm Fernando a Brazilian Software Developer Student
+    📚Learning Python 
 
 [![fvsteinbach's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvsteinbach&count_private=true&show_icons=true&theme=graywhite)](https://github.com/fvsteinbach/github-readme-stats)
 
