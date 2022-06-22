@@ -12,8 +12,9 @@
   <br>
     <a href="https://beacons.ai/fvsteinbach">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fvsteinbach&count_private=true&show_icons=true&theme=graywhite"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fvsteinbach&theme=graywhite"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvsteinbach&theme=graywhite&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvsteinbach&theme=graywhite&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fvsteinbach&theme=graywhite"/>
+
 </div>
 
 ### You can reach me through
