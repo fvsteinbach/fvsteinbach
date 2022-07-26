@@ -1,5 +1,4 @@
 ### 💻I'm Fernando a Brazilian Software Developer Student
-  🚢Even though I have no previous experience as a developer I did work for other industries<br>
   📚These are the languages I study on my daily basis:
 
 <a href="https://www.linkedin.com/in/steinbachfernandovinicius/"/>
