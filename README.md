@@ -1,5 +1,5 @@
-### 💻I'm Fernando a Brazilian Software Developer Student
-  📚These are the languages I study on my daily basis:
+### 💻I'm Fernando a Brazilian Backend Software Developer
+  📚These are the languages I use on my daily basis:
 
 <a href="https://www.linkedin.com/in/steinbachfernandovinicius/"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
