@@ -1,5 +1,6 @@
 ### 💻I'm Fernando a Brazilian Backend Software Developer
   📚These are the languages I use on my daily basis:
+  🔭 I’m currently working as freelancer for ARES BJJ 
 
 <a href="https://www.linkedin.com/in/steinbachfernandovinicius/"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
